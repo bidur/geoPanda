@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "tourism_nepal_Line",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "w302393854", "osm_id": "302393854", "osm_type": "way", "highway": "path", "tourism": "viewpoint", "bridge": "", "layer": "", "name": "", "amenity": "", "religion": "" }, "geometry": { "type": "LineString", "coordinates": [ [ 84.4298798, 27.6157679 ], [ 84.42992, 27.6157489 ] ] } },
+{ "type": "Feature", "properties": { "full_id": "w302393855", "osm_id": "302393855", "osm_type": "way", "highway": "path", "tourism": "viewpoint", "bridge": "yes", "layer": "1", "name": "", "amenity": "", "religion": "" }, "geometry": { "type": "LineString", "coordinates": [ [ 84.4296753, 27.615898 ], [ 84.4298798, 27.6157679 ] ] } },
+{ "type": "Feature", "properties": { "full_id": "w313431724", "osm_id": "313431724", "osm_type": "way", "highway": "", "tourism": "", "bridge": "", "layer": "", "name": "lmtc girls hostel", "amenity": "", "religion": "" }, "geometry": { "type": "LineString", "coordinates": [ [ 85.5423425, 27.6189469 ], [ 85.542391, 27.6188941 ], [ 85.542348, 27.618863 ], [ 85.5422995, 27.6189159 ], [ 85.5423425, 27.6189469 ] ] } },
+{ "type": "Feature", "properties": { "full_id": "w353693355", "osm_id": "353693355", "osm_type": "way", "highway": "", "tourism": "attraction", "bridge": "", "layer": "", "name": "Janaki Mandir Area", "amenity": "place_of_worship", "religion": "hindu" }, "geometry": { "type": "LineString", "coordinates": [ [ 85.925141, 26.7307123 ], [ 85.9251417, 26.7300508 ], [ 85.9260913, 26.730027 ], [ 85.9264747, 26.7300186 ], [ 85.9265571, 26.7305585 ], [ 85.9265397, 26.7307051 ], [ 85.9261435, 26.7308449 ], [ 85.9258274, 26.7308891 ] ] } }
+]
+}
